@@ -1,0 +1,6 @@
+[package]
+name = "rust_std_echo"
+version = "0.1.0"
+authors = ["Michael Boratko <boratko@gmail.com>"]
+
+[dependencies]
